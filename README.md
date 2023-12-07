@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Azure SOC & Honeynet](https://github.com/EdgarAcuna8/Azure-SOC)
+- <b>Azure SOC & Honeynet (Live Traffic)</b>
+  - [Azure SOC | Honeynet](https://github.com/EdgarAcuna8/Azure-SOC)
 
 <h2> 🤳 Connect with me:</h2>
 
