@@ -1,9 +1,9 @@
 <h1>Hi, I'm Edgar! <br/> <a href="https://www.linkedin.com/in/eacuna15/">IT & Security Professional</a>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 My Projects:</h2>
 
-- <b>Azure SOC & Honeynet (Live Traffic)</b>
-  - [Azure SOC | Honeynet](https://github.com/EdgarAcuna8/Azure-SOC)
+- <b>[Azure SOC & Honeynet (Live Traffic)](https://github.com/EdgarAcuna8/Azure-SOC)</b>
+- <b>[Azure VM Web Server Deployment](https://github.com/EdgarAcuna8/Azure-SOC)</b>
 
 <h2> 🤳 Connect with me:</h2>
 
