@@ -3,7 +3,8 @@
 <h2>👨‍💻 My Projects:</h2>
 
 - <b>[Azure SOC & Honeynet (Live Traffic)](https://github.com/EdgarAcuna8/Azure-SOC)</b>
-- <b>[Azure VM Web Server Deployment](https://github.com/EdgarAcuna8/Azure-SOC)</b>
+- <b>[Azure VM Web Server Deployment](https://github.com/EdgarAcuna8/Azure-Webserver)</b>
+- <b>[Deploying OPNsense Firewall in Virtual Box](https://github.com/EdgarAcuna8/Deploying-OPNsense-VirtualBox)</b>
 
 <h2> 🤳 Connect with me:</h2>
 
