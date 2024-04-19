@@ -3,15 +3,14 @@
 <h2>👨‍💻 My Projects:</h2>
 
 - <b>[Azure SOC & Honeynet (Live Traffic)](https://github.com/EdgarAcuna8/Azure-SOC)</b>
+- <b>[Deploying AD and Splunk Server in Virtual Box](https://github.com/EdgarAcuna8/VB-Active-Directory-Splunk)</b>
 - <b>[Azure VM Web Server Deployment](https://github.com/EdgarAcuna8/Azure-Webserver)</b>
 - <b>[Deploying OPNsense Firewall in Virtual Box](https://github.com/EdgarAcuna8/Deploying-OPNsense-VirtualBox)</b>
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[twitter]: https://twitter.com/joshmadakor
 [linkedin]: https://www.linkedin.com/in/eacuna15
 
 <!---
